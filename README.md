@@ -20,7 +20,7 @@ TOPPERS/ASPは CQ出版の Interface誌 2021年8月号に掲載されたTOPPERS/
 
 表示プログラムの切り換えはロータリーDIPスイッチで選択できます。
 
-![schematic](/pico-asp-4Demo-V2.jpg)
+![schematic](/pico-asp-4Demo-V3.jpg)
 
 
 ◆ビルド環境構築メモ
